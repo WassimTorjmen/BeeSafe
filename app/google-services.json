@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245102178017",
+    "project_id": "beesave-3feb9",
+    "storage_bucket": "beesave-3feb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245102178017:android:a21c755762f7f088fdd1a0",
+        "android_client_info": {
+          "package_name": "com.example.beesave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245102178017-3bd7ovedq2c1gf2csh203i1qc1dbdiuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1IgR1TQJIl8_vMeMqWYdaAjNIwIgf0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245102178017-3bd7ovedq2c1gf2csh203i1qc1dbdiuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
